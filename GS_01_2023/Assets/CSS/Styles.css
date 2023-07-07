@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Lato', sans-serif;
+  scroll-behavior: smooth;
+}
+
+a {
+  text-decoration: none;
+  color: #424530;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+.container {
+  color: #424530;
+  background-color: #ffefcd;
+  width: 100%;
+  min-height: 100vh;
+}
+
+
+

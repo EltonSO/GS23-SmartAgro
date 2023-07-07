@@ -1,0 +1,14 @@
+.footer_page {
+    color: #424530;
+    background-color: #ffefcd;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer_page h2 {
+    font-size: 40px;
+    font-weight: 900;
+}
+.footer_page p {
+    font-size: 20px;
+}
